@@ -1,5 +1,7 @@
 ## Welcome to Alice's Programming Page
 
+![Typing Test](https://github.com/Aeleppert/Computer-Prog/blob/gh-pages/Images/Screen%20Shot%202020-08-27%20at%207.59.58%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Aeleppert/Computer-Prog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
